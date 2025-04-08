@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: EggGraph
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":100.2507,"y":107.5001},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"3b8dddb1-aea5-4523-8cfa-143e4318ffa2","$version":"A","$type":"Unity.VisualScripting.Start"},{"coroutine":false,"defaultValues":{},"position":{"x":-290.0,"y":25.0},"guid":"2e80f858-21c0-40d9-99b3-eef0d3f5dcc8","$version":"A","$type":"Unity.VisualScripting.Update"},{"argumentCount":0,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"EggCollide","$type":"System.String"}},"position":{"x":-92.0,"y":17.0},"guid":"698e11a6-8536-4cf4-963c-8f973db28362","$version":"A","$type":"Unity.VisualScripting.CustomEvent"},{"chainable":false,"parameterNames":["message"],"member":{"name":"Log","parameterTypes":["System.Object"],"targetType":"UnityEngine.Debug","targetTypeName":"UnityEngine.Debug","$version":"A"},"defaultValues":{},"position":{"x":84.0,"y":24.0},"guid":"f6be2295-c885-4876-a3da-a9df8ac190c7","$version":"A","$type":"Unity.VisualScripting.InvokeMember"}],"$version":"A"}}'
+    _objectReferences: []
